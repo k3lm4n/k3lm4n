@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3lm4n&label=Profile%20views&color=42b7ff&style=flat" alt="k3lm4n" /> </p>
 
-## Connect with me:
+<h3> Connect with me:</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_k3lm4n_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelman-dias-dos-santos-812693185/)
