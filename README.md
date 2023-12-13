@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning DevOps
 - 👯 Got a project that you need help? Contact me anytime ...
-- 💬 Ask me about TypeScript, Javascript, dev Back-End and DevOps
+- 💬 Ask me about TypeScript, Javascript, Python, dev Back-End and DevOps
 - 📫 How to reach me: kelmandossantos@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3lm4n&label=Profile%20views&color=42b7ff&style=flat" alt="k3lm4n" /> </p>
